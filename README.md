@@ -36,9 +36,8 @@ ai-safety-incident-api/
 1. Clone the repository or extract the ZIP file:
 
 ```bash
-git clone <repository-url>
-# OR
-unzip ai-safety-incident-api.zip
+git clone https://github.com/salmanfadi/AI-Safety-Incident-Log
+
 cd ai-safety-incident-api
 ```
 
